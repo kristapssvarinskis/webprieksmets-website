@@ -8,25 +8,44 @@ body {
     font-family: Helvetica;
 }
 
-a1 {
+h1 {
     font-weight: 500;
     font-size: 30px;
+    font-family: Helvetica;
     margin: 0;
     color: #FAF3E0;
+    position: relative; top: 25px;
 }
 
-a2 {
+h2 {
     font-weight: 500;
     font-size: 20px;
+    font-family: Helvetica;
     margin: 0;
     color: #FAF3E0;
+    position: relative; left: 20px; bottom: 6px;
 }
 
-.upper-area {
-    padding: 20px;
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Helvetica;
+    margin: 0;
+    color: #FAF3E0;
+    position: relative; left: 1500px; bottom: 30px;
+}
+
+.content-field {
+    padding: 5px;
     text-align: left;
     background-color: #1E212D;
     color: #1E212D;
     font-size: 20px;
+}
+
+a {
+    color: #FAF3E0;
+    padding-right: 23px;
+    text-decoration: none;
 }
 
