@@ -1,51 +1,76 @@
+@font-face {
+    font-family: yeezy;
+    src: url(yeezy.ttf);
+}
+
 html, body {
     min-height: 100%;
     margin: 0;
 }
 
 body {
-    background-color: #FAF3E0;
-    font-family: Helvetica;
+    background-color: #ffffff;
+    font-family: yeezy;
 }
 
 h1 {
-    font-weight: 500;
-    font-size: 30px;
-    font-family: Helvetica;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: yeezy;
     margin: 0;
-    color: #FAF3E0;
-    position: relative; top: 25px;
+    color: #000000;
+    position: absolute; 
+    top: 15px;
+    left: 46.5%;
 }
 
-h2 {
+.left-side {
     font-weight: 500;
-    font-size: 20px;
-    font-family: Helvetica;
+    font-size: 18px;
+    font-family: yeezy;
     margin: 0;
-    color: #FAF3E0;
-    position: relative; left: 20px; bottom: 6px;
+    color: #030303;
+    position: relative;
+    top: 10px;
 }
 
-h3 {
+.right-side {
     font-weight: 500;
-    font-size: 20px;
-    font-family: Helvetica;
+    font-size: 18px;
+    font-family: yeezy;
     margin: 0;
-    color: #FAF3E0;
-    position: relative; left: 1500px; bottom: 30px;
+    color: #050505;
+    position: relative;
+    left: 80%;
+    bottom: 8px;
 }
 
 .content-field {
     padding: 5px;
     text-align: left;
-    background-color: #1E212D;
+    background-color: #ffffff;
     color: #1E212D;
     font-size: 20px;
+    border-style: solid;
 }
 
 a {
-    color: #FAF3E0;
+    color: #000000;
     padding-right: 23px;
-    text-decoration: none;
+    text-decoration: none; 
 }
 
+.middle-text {
+position: relative;
+text-align: center;
+left: 10px;
+top: 400px;
+}
+
+.bottom-text {
+position: relative;
+text-align: center;
+left: 10px;
+top: 800px;
+font-size: 15px;
+}
