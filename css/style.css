@@ -1,0 +1,76 @@
+@font-face {
+    font-family: yeezy;
+    src: url(yeezy.ttf);
+}
+
+html, body {
+    min-height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: yeezy;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 25px;
+    font-family: yeezy;
+    margin: 0;
+    color: #000000;
+    position: absolute; 
+    top: 15px;
+    left: 46.5%;
+}
+
+.left-side {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: yeezy;
+    margin: 0;
+    color: #030303;
+    position: relative;
+    top: 10px;
+}
+
+.right-side {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: yeezy;
+    margin: 0;
+    color: #050505;
+    position: relative;
+    left: 80%;
+    bottom: 8px;
+}
+
+.content-field {
+    padding: 5px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #1E212D;
+    font-size: 20px;
+    border-style: solid;
+}
+
+a {
+    color: #000000;
+    padding-right: 23px;
+    text-decoration: none; 
+}
+
+.middle-text {
+position: relative;
+text-align: center;
+left: 10px;
+top: 400px;
+}
+
+.bottom-text {
+position: relative;
+text-align: center;
+left: 10px;
+top: 800px;
+font-size: 15px;
+}

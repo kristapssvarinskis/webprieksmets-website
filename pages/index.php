@@ -4,24 +4,24 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <script src="./script.js"></script>
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="script.js"></script>
   <title>ARCHIVUM</title>
 </head>
 <body>
     <div class="content-field">
         <header>
-           <nav><h1><a href="./index.html"><center>*ARCHIVUM*+!</center></a></h1></nav>
+           <nav><h1><a href=""><center>*ARCHIVUM*+!</center></a></h1></nav>
                 <div class="left-side">
                     <nav>
-                    <a href="pages/about-me.html">!ABOUT ME!*</a>
-                    <a href="pages/contacts.html">!CONTACTS**!</a>
+                    <a href="./about-me.php">!ABOUT ME!*</a>
+                    <a href="./contacts.php">!CONTACTS**!</a>
                     </nav>
                 </div>
 
                 <div class="right-side">
-                    <a href="pages/my-fav-pcs.html">!MY FAV PIECES!+*</a>
-                    <a href="pages/my-interests.html">!MY INTERESTS**!</a>
+                    <a href="./my-fav-pcs.php">!MY FAV PIECES!+*</a>
+                    <a href="./my-interests.php">!MY INTERESTS**!</a>
                 </div>
         </header>
     </div>
