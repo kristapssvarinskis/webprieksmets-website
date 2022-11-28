@@ -14,14 +14,14 @@
            <nav><h1><a href="./index.html"><center>*ARCHIVUM*+!</center></a></h1></nav>
                 <div class="left-side">
                     <nav>
-                    <a href="./about-me.html">!ABOUT ME!*</a>
-                    <a href="./contacts.html">!CONTACTS**!</a>
+                    <a href="pages/about-me.html">!ABOUT ME!*</a>
+                    <a href="pages/contacts.html">!CONTACTS**!</a>
                     </nav>
                 </div>
 
                 <div class="right-side">
-                    <a href="./my-fav-pcs.html">!MY FAV PIECES!+*</a>
-                    <a href="./my-interests.html">!MY INTERESTS**!</a>
+                    <a href="pages/my-fav-pcs.html">!MY FAV PIECES!+*</a>
+                    <a href="pages/my-interests.html">!MY INTERESTS**!</a>
                 </div>
         </header>
     </div>
