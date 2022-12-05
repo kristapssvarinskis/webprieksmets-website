@@ -1,0 +1,9 @@
+{
+    "name": "03dpksvarinskis/webprieksmets-website",
+    "description": "mans web projekts",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "9.5.x-dev"
+    }
+}
